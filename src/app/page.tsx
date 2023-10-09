@@ -12,7 +12,7 @@ export default function Home() {
       </p>
 
       <div>
-        For More information, please click on button.
+        For More information, please CONTACT Allama SB (0324-6531898).
         <Button />
       </div>
     </main>
