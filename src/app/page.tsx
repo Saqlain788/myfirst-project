@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center p-24 gap-5">
       <h1 className="font-bold text-6xl text-red-500">
-        My FirstNEXTJS Project
+        Hafiz Adeel Mairaj - Allama Sb
       </h1>
       <p>
         I am learning NextJS which is framework of React - library of
